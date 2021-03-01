@@ -1,7 +1,7 @@
 ---
 title: "Non-equivalent groups with covariates design using propensity scores for kernel equating"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 
 excerpt: 
 date: 2017
 venue: 'Quantitative PSychology'
