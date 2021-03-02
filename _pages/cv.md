@@ -13,12 +13,11 @@ Education
 ======
 * B.S. in Statistics, Umeå University, 2014
 * M.S. in Statistics, Umeå University, 2015
-* Ph.D in Statistics, Umeå University, 2020
+* Ph.D. in Statistics, Umeå University, 2020
 
 Current Position
 ======
-* Postdoctoral Researcher
-  * Universite Cote d'Azur & Inria 
+* Postdoctoral Researcher at Inria & Université Côte d'Azur 
   * Research project: Model-based co-clustering of high-dimensional data 
   * Supervisor: Professor Charles Bouveyron (UCA & Inria) and Professor Elena Erosheva (University of Washington)
   
