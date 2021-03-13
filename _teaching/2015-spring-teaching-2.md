@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Lecturer"
 collection: teaching
-type: "Workshop"
+type: "Probability and Statistical Inference, and Basic Statistics"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Umeå University, Department of Statistics"
+date: 2017-01-01 - 2019-01-01
+location: "Umeå, Sweden"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
