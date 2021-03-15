@@ -1,7 +1,7 @@
 ---
-title: "Supervisor"
+title: "Bachelor's and Master's Thesis"
 collection: teaching
-type: "Bachelor's and Master's Thesis"
+type: "Supervisor"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Umeå University, Department of Statistics"
 date: 2015-01-01 -- 2020-01-01
