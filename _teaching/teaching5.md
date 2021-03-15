@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant"
+title: "Basic Statistics"
 collection: teaching
-type: "Basic Statistics"
+type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Umeå University, Department of Statistics"
 date: 2014-01-01 -- 2017-01-01
