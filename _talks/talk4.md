@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2012-03-01-talk-1
 venue: "Frontiers in Educational Measurement"
-date: 2018-03-01
+date: 2018-09-13
 location: "Oslo, Norway"
 ---
 
