@@ -1,10 +1,17 @@
 ---
-title: "An Illustration on the Quantile-Based Calculation of the Standard Error of Equating in Kernel Equating"
+title: "Paper Title Number 1"
 collection: publications
-permalink: 
-excerpt: 
-date: 2021-03-01
-venue: 'Quantitative Psychology - 85th annual meeting of the psychometric society'
-citation: 'Wallin, G., González, J. (2021). &quot;An Illustration on the Quantile-Based Calculation of the Standard Error of equating in Kernel Equating.&quot; <i>Quantitative Psychology 2021</i>.'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
 
