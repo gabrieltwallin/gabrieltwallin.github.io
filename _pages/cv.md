@@ -11,7 +11,11 @@ redirect_from:
 
 Professional Career
 ======
-* 2020-02-01 - : Postdoctoral Researcher at Inria & Université Côte d'Azur (UCA)
+* 2021-08-01 - : Postdoctoral Researcher at Umeå University and Visiting Fellow at London School of Economics and Political Science
+  * Research project: Statistical Innovation to Promote Fairness in Modern Educational Assessment Tests. 
+  * Three year research grant from the Swedish Research Council where I am the principal investigator.
+<br/><br/>
+* 2020-02-01 - 2021-07-31: Postdoctoral Researcher at Inria & Université Côte d'Azur (UCA)
   * Research project: Model-based co-clustering of high-dimensional data 
   * Supervisor: Professor Charles Bouveyron (Inria & UCA) and Professor Elena Erosheva (University of Washington)
 <br/><br/>
