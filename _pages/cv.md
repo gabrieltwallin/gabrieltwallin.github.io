@@ -11,7 +11,7 @@ redirect_from:
 
 Professional Career
 ======
-* Currently: Postdoctoral Researcher at Umeå University and Visiting Fellow at London School of Economics and Political Science
+* 2021-08-01 - 2024-07-31: Visiting Fellow at London School of Economics and Political Science.
   * Research project: Statistical Innovation to Promote Fairness in Modern Educational Assessment Tests. 
   * Three year research grant from the Swedish Research Council where I am the principal investigator.
 <br/><br/>
