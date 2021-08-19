@@ -1,5 +1,5 @@
 ---
-title: "How important is the choice of bandwidth in kernel equating"
+title: "How to select the bandwidth in kernel equating"
 collection: publications
 permalink: 
 excerpt: 
