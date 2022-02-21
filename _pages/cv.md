@@ -50,4 +50,5 @@ Teaching
 Service and leadership
 ======
 * Reviewer for Annals of Applied Statistics
+* Reviewer for TEST
 * Reviewer for Applied Psychological Measurement
