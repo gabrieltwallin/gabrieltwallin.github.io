@@ -52,3 +52,5 @@ Service and leadership
 * Reviewer for Annals of Applied Statistics
 * Reviewer for TEST
 * Reviewer for Applied Psychological Measurement
+* Reviewer for Educational and Psychological Measurement
+* Reviewer of applications for the PhD travel awards for the International Meeting of the Psychometric Society
