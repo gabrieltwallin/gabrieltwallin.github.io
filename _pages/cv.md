@@ -53,4 +53,10 @@ Service and leadership
 * Reviewer for TEST
 * Reviewer for Applied Psychological Measurement
 * Reviewer for Educational and Psychological Measurement
+
+
+Miscellaneous
+======
+* Reviewer for Annals of Applied Statistics
+* Member of the local organizing committee for the Institute of Mathematical Statistics (IMS) conference 2022
 * Reviewer of applications for the PhD travel awards for the International Meeting of the Psychometric Society
