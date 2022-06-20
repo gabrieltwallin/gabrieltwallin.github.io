@@ -60,3 +60,4 @@ Miscellaneous
 * Member of the local organizing committee for the Institute of Mathematical Statistics (IMS) conference 2022
 * Reviewer of applications for the PhD travel awards for the International Meeting of the Psychometric Society
 * Winner of the LSE Class Teacher Award 2021-2022 
+* Winner of USBE Scientific Award 2022
