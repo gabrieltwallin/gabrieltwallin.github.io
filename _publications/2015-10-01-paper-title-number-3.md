@@ -1,8 +1,10 @@
 ---
 title: "Kernel equating using propensity scores for nonequivalent groups"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: 
+excerpt:
 date: 2019-10-01
 venue: 'Journal of Educational and Behavioral Statistics'
-citation: 'Wallin, G. & Wiberg, M. (2019). &quot;Kernel equating using propensity scores for nonequivalent groups.&quot; <i>Journal of Educational and Behavioral Statistics</i>, 44(4), 390-414.'
+paperurl:
+citation: 'Wallin, G. & Wiberg, M. (2019). &quot;Kernel equating using propensity scores for nonequivalent groups.&quot; Journal of Educational and Behavioral Statistics, 44(4), 390-414.'
 ---
