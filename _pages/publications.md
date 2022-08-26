@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-* Liu, X., Wallin, G., Chen, X., & Moustaki, I (2022). Rotation to Sparse Loadings using L^p Losses and Related Inference Problems. Arxiv.
+* Liu, X., Wallin, G., Chen, Y., & Moustaki, I (2022). Rotation to Sparse Loadings using L^p Losses and Related Inference Problems. Arxiv.
