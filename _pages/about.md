@@ -12,7 +12,7 @@ I’m a Research Fellow at the [Department of Statistics](https://www.lse.ac.uk/
 
 My research is centered around fairness and interpretability of statistical models and machine learning algorithms for the social and behavioral sciences. So far, I have addressed these topics by developing new methodology for e.g. model-based clustering, multivariate outlier detection and exploratory factor analysis.  
 
-Check out the [webpage](https://psychometricslab.com/) of my research group for more information related to my research. 
+Check out the [web page](https://psychometricslab.com/) of my research group for more information related to my research. 
 
 My research is funded by the Swedish Research Council.
 
