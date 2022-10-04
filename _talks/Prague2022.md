@@ -1,5 +1,5 @@
 ---
-title: "Computational Psychometrics Seminar"
+title: "Seminar Series, Institute of Computer Science, Czech Academy of Sciences"
 collection: talks
 type: "Talk"
 permalink: /talks/Prague2021
