@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-* Liu, X., **Wallin, G.**, Chen, Y., & Moustaki, I. (2022). Rotation to Sparse Loadings using L^p Losses and Related Inference Problems. [ArXiv link](https://arxiv.org/abs/2206.02263).
+* **Wallin, G.**, & Wiberg, M. (2023). Model Misspecification and Robustness of Test Score Equating Using Propensity Scores. Accepted for publication in Journal of Educational and Behavioral Statistics.
+* Liu, X., **Wallin, G.**, Chen, Y., & Moustaki, I. (2022). Rotation to Sparse Loadings using L^p Losses and Related Inference Problems. [ArXiv link](https://arxiv.org/abs/2206.02263). Accepted for publication in Psychometrika.
 * Altintas, Ö. & **Wallin, G.** (2021). Equality of Admission Tests Using Kernel Equating Under the Non-equivalent Groups With Covariates Design. *International Journal of Assessment Tools in Education*, 8(4), 729-743. [Link](https://ijate.net/index.php/ijate/article/view/44)
 * **Wallin, G.**, Wiberg, M., & Häggström, J. (2021). How Important is the Choice of Bandwidth in Kernel Equating? *Applied Psychological Measurement*, 45(7-8), 518-535. [Link](https://journals.sagepub.com/doi/full/10.1177/01466216211040486)
 * González, J., **Wallin, G.** (2021). *An Illustration on the Quantile-Based Calculation of the Standard Error of Equating in Kernel Equating.* In Wiberg, M., Molenaar, D., González, J., Böckenholt, U., & Kim, J-S.  (Eds.) (2021). Quantitative Psychology: The 85th Annual Meeting of the Psychometric Society, Virtual, 2021. New York: Springer.
