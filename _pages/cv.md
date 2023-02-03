@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-See it <u><a href="https://gabrieltwallin.github.io/files/AcademicCV_Wallin.pdf">here</a></u>. Updated 11/2022.
+See it <u><a href="https://gabrieltwallin.github.io/files/CV_Wallin.pdf">here</a></u>. Updated 02/2023.
 <br/>
