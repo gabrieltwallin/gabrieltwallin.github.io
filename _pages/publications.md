@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 * **Wallin, G.**, Chen, Y., & Moustaki, I. (2023). DIF Analysis with Unknown Groups and Anchor Items. Under review. [ArXiv link](https://arxiv.org/abs/2305.00961).
-* **Wallin, G.**, & Wiberg, M. (2023). Model Misspecification and Robustness of Test Score Equating Using Propensity Scores. Accepted for publication in Journal of Educational and Behavioral Statistics.
+* **Wallin, G.**, & Wiberg, M. (2023). Model Misspecification and Robustness of Test Score Equating Using Propensity Scores. Accepted for publication in *Journal of Educational and Behavioral Statistics*.
 * Liu, X., **Wallin, G.**, Chen, Y., & Moustaki, I. (2023). Rotation to Sparse Loadings using L^p Losses and Related Inference Problems. *Psychometrika*. [Link to paper](https://doi.org/10.1007/s11336-023-09911-y).
 * Altintas, Ö. & **Wallin, G.** (2021). Equality of Admission Tests Using Kernel Equating Under the Non-equivalent Groups With Covariates Design. *International Journal of Assessment Tools in Education*, 8(4), 729-743. [Link to paper](https://ijate.net/index.php/ijate/article/view/44)
 * **Wallin, G.**, Wiberg, M., & Häggström, J. (2021). How Important is the Choice of Bandwidth in Kernel Equating? *Applied Psychological Measurement*, 45(7-8), 518-535. [Link to paper](https://journals.sagepub.com/doi/full/10.1177/01466216211040486)
