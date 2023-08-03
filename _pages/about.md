@@ -14,10 +14,7 @@ My research is centered around **fairness** and **interpretability** of statisti
 
 Check out the [web page](https://psychometricslab.com/) of my research group for more information related to my research. 
 
-My research is funded by the Swedish Research Council.
-
-
-
+I will be joining the [Department of Mathematics and Statistics](https://www.lancaster.ac.uk/maths/) at Lancaster University as Lecturer (equivalent to Assistant Professor, tenure-track) in the autumn of 2023!
 
 
 
