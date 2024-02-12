@@ -19,7 +19,7 @@ My research interests lie in the intersection between latent variable modeling a
 
 If you are a student interested in pursuing a PhD under my supervision, please feel free to send me an [email](mailto:g.wallin@lancaster.ac.uk). 
 
-**News** Consider applying for [this](https://www.lancaster.ac.uk/maths/study/phd/#latent-variable-modelling-and-statistical-learning-for-largescale-health-assessments-387282-3) PhD position under my supervision. 
+**News:** Consider applying for [this](https://www.lancaster.ac.uk/maths/study/phd/#latent-variable-modelling-and-statistical-learning-for-largescale-health-assessments-387282-3) PhD position under my supervision. 
 
 
 
