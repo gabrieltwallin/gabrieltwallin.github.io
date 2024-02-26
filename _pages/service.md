@@ -4,7 +4,7 @@ title: "Service"
 permalink: /service/
 author_profile: true
 ---
-**Committee work**
+
 * **Program committee member** International Meeting of the Psychometric Society
 * **Website committee member** Psychometric Society
 * **Committee member** Young Statisticians, Royal Statistical Society
