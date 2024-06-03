@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+* **Wallin, G.**, & Wiberg, M. (2024). Smoothing of bivariate test score distributions - Model selection targeting test score equating. Accepted for publication in *Journal of Educational and Behavioral Statistics*.
 * **Wallin, G.** (2024) *Review of* An Introduction to R and Python for Data Analysis: A Side-By-Side Approach (by Taylor R. Brown). *The American Statistician*. 
 * **Wallin, G.**, Chen, Y., & Moustaki, I. (2024). DIF Analysis with Unknown Groups and Anchor Items. *Psychometrika*. [Link to paper](https://link.springer.com/article/10.1007/s11336-024-09948-7).
 * **Wallin, G.**, & Wiberg, M. (2023). Model Misspecification and Robustness of Test Score Equating Using Propensity Scores. *Journal of Educational and Behavioral Statistics*, 48(5), 603-635. [Link to paper](https://journals.sagepub.com/doi/full/10.3102/10769986231161575)
