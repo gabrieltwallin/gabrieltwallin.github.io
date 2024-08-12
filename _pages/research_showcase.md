@@ -11,6 +11,6 @@ On this page, I will showcase some of the research research projects that I have
 ## Project Title 1
 Description of the project and its importance.
 
-![Figure Description](/images/Gabriel.png)
+<img src="{{ site.baseurl }}/assets/images/Gabriel.jpg" alt="Figure Description" style="width:50%;">
 
 Additional details about the project.
