@@ -43,5 +43,5 @@ Modern data analysis frequently involves reducing a high-dimensional dataset to 
 Score equating is the statistical process of aligning scores from different assessments, tests, or measurement instruments to ensure they are comparable on a common scale. This process adjusts for variations in difficulty, form, or context across different versions of an assessment, allowing scores to be interpreted consistently. Beyond educational testing, score equating can be applied in various fields such as educational and psychological measurement, market research and health surveys, where measurements from different tools or time points need to be standardized, ensuring that the results are equivalent and comparable across diverse conditions. It is fundamentally about finding a transformation or relationship that preserves the meaning of scores across different scenarios. 
 
 <div style="text-align: center;">
-    <img src="/images/equipercentile_transformation-1.png" alt="Figure Description" style="width:65%;">
+    <img src="/images/equipercentiles.png" alt="Figure Description" style="width:65%;">
 </div>
