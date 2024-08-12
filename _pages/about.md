@@ -20,6 +20,8 @@ My research focuses on developing flexible statistical and machine learning meth
 * model-based clustering and classification,
 * change-point detection for latent factor models.
 
+Please see the Research showcase page for some examples of my research.
+
 If you are a student interested in pursuing a PhD under my supervision, please feel free to send me an [email](mailto:g.wallin@lancaster.ac.uk). 
 
 
