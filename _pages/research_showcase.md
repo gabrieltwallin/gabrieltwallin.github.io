@@ -17,7 +17,7 @@ In the figure below, we illustrate how this method can be used to adjust the est
 
 <div style="overflow: hidden;">
     <div style="float: left; width: auto; text-align: center;">
-        <img src="/images/Param_estimates.png" alt="Figure Description" style="width:auto; max-width:100%;">
+        <img src="/images/Param_estimates.png" alt="Figure Description" style="width:auto; max-width:60%;">
     </div>
     <div style="float: right; width: auto; text-align: center;">
         <img src="/images/PathDiagram_DIF.png" alt="Figure Description" style="width:auto; max-width:100%;">
