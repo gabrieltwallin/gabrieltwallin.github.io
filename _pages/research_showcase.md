@@ -15,9 +15,15 @@ Ensuring fairness and interpretability in tools like surveys, questionnaires, an
 
 In the figure below, we illustrate how this method can be used to adjust the estimated difficulty levels of questions in a university placement test for two distinct latent clusters that has been identified by our procedure: one that exhibits rapid response behavior due to time pressure, and another baseline group with stable response patterns.
 
-<div style="text-align: center;">
-    <img src="/images/Param_estimates.png" alt="Figure Description" style="width:65%;">
+<div style="overflow: hidden;">
+    <div style="float: left; width: 50%; text-align: center;">
+        <img src="/images/Param_estimates.png" alt="Figure Description" style="width:65%;">
+    </div>
+    <div style="float: right; width: 50%; text-align: center;">
+        <img src="/images/PathDiagram_DIF.png" alt="Figure Description" style="width:65%;">
+    </div>
 </div>
+
 
 The proposed framework is currently being extended in a number of directions, including statistical inference for the DIF effect (the dashed line in the figure above). Please let me know if you are working with survey-type data, possibly with large numbers of measurement units (respondents/costumers/students etc) and variables, and are interested in multi-group analysis. 
 
