@@ -14,4 +14,7 @@ main:
 
   - title: "Service"
     url: /service/
+
+  - title: "Research showcase"
+    url: /research_showcase/
     
