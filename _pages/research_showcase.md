@@ -17,7 +17,7 @@ In the figure below, we illustrate how this method can be used to adjust the est
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
     <div style="text-align: center; flex: 3;">
-        <img src="/images/Param_estimates.png" alt="Figure Description" style="width:auto; max-width:70%;">
+        <img src="/images/Param_estimates.png" alt="Figure Description" style="width:auto; max-width:90%;">
     </div>
     <div style="text-align: center; flex: 3;">
         <img src="/images/PathDiagram_DIF.png" alt="Figure Description" style="width:auto; max-width:100%;">
