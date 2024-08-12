@@ -17,5 +17,5 @@ In the figure below, we illustrate how estimates of the easiness level of each q
     <img src="/images/Param_estimates.png" alt="Figure Description" style="width:65%;">
 </div>
 
-The proposed framework is currently being extended in a number of directions, including statistical inference for the DIF effect (the dashed line in the figure above). Please let me know if you are working with categorical data, possibly with large numbers of measurement units (respondents/costumers/students etc) and variables, and are interested in multi-group analysis. I am both interested in collaboration and consulting on these matters.
+The proposed framework is currently being extended in a number of directions, including statistical inference for the DIF effect (the dashed line in the figure above). Please let me know if you are working with survey-type data, possibly with large numbers of measurement units (respondents/costumers/students etc) and variables, and are interested in multi-group analysis. I am both interested in collaboration and consulting on these matters.
 
