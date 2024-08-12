@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "Research Showcase"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 permalink: /research_showcase/
 author_profile: true
 ---
