@@ -16,7 +16,7 @@ I’m an Assistant Professor (*Lecturer* in the UK system) in Statistics in the 
 
 My research focuses on developing flexible statistical and machine learning methods to accurately identify latent (unobserved) structures in social, behavioural and health data. Much of my research is motivated by concepts of fairness and interpretability and is often informed by collaborations with domain experts from various fields, including economics, psychology, and the educational testing industry. 
 
-Among my current projects, I work on new methodology to study physical, mental, and social inequalities among school children in Northern England, and early literacy acquisition in game-based environments. 
+Among my current projects, I work on new methodology to study inequalities among school children in Northern England, and early literacy acquisition in game-based environments. 
 
 From a statistical point of view, my research is at the moment focused on developing theory, methodology and computational methods for:   
 * The structural learning of latent variable models,
