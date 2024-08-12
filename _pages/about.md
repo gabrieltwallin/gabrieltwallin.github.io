@@ -12,7 +12,7 @@ I’m a Lecturer (Assistant Professor) in Statistics in the [School of Mathemati
 
 My research focuses on developing flexible statistical and machine learning methods to accurately measure latent (unobserved) variables from observed multivariate data. Latent variable modeling has long been popular for assessing complex concepts like abilities and personality traits. However, in the era of data science, new application areas — such as personalized recommendation systems in retail, education, and e-health — have emerged. The challenges posed by today’s large and heterogeneous data require the development of new statistical and computational methods. The methodologies I work on are often informed by collaborations with domain experts from various fields, including development economics, psychology, and education.
 
-So far, much of my research is motivated by concepts of fairness and interpretability in the social, behavioural and health sciences. Topics include: 
+Much of my research is motivated by concepts of fairness and interpretability in the social, behavioural and health sciences. Topics include: 
 * The structural learning of latent variable models,
 * multivariate outlier detection,
 * model-based clustering and classification,
