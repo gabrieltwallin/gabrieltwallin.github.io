@@ -8,9 +8,9 @@ author_profile: true
 On this page, I will showcase some of the research research projects that I have worked on.
 
 
-## Project Title 1
+## Model-based clustering in item factor analysis
 Description of the project and its importance.
 
-<img src="/images/Param_estimates.jpg" alt="Figure Description" style="width:65%;">
+<img src="/images/Param_estimates.png" alt="Figure Description" style="width:65%;">
 
-Additional details about the project.
+
