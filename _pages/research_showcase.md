@@ -17,7 +17,7 @@ In the figure below, we illustrate how this method can be used to adjust the est
 
 <div style="display: flex; width: 100%;">
     <div style="text-align: center; flex: 1;">
-        <img src="/images/Param_estimates.png" alt="Figure Description" style="width:100%; height: auto; object-fit: contain;">
+        <img src="/images/Param_estimates.png" alt="Figure Description" style="width:90%; height: auto; object-fit: contain;">
     </div>
     <div style="text-align: center; flex: 1;">
         <img src="/images/PathDiagram_DIF.png" alt="Figure Description" style="width:100%; height: auto; object-fit: contain;">
