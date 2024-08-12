@@ -190,7 +190,10 @@ collections:
   service:
     output: true
     permalink: /:collection/:path/
-
+  research_showcase:
+    output: true
+    permalink: /:collection/:path/
+    
 
 # Defaults
 defaults:
