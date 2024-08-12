@@ -11,6 +11,6 @@ On this page, I will showcase some of the research research projects that I have
 ## Project Title 1
 Description of the project and its importance.
 
-![Figure Description](/images/figure1.png)
+![Figure description](/images/Gabriel.jpg)
 
 Additional details about the project.
