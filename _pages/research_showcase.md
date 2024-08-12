@@ -11,6 +11,6 @@ On this page, I will showcase some of the research research projects that I have
 ## Project Title 1
 Description of the project and its importance.
 
-<img src="/images/Param_estimates.pdf" alt="Figure Description" style="width:50%;">
+<embed src="/images/Param_estimates.pdf" width="600" height="400" type="application/pdf">
 
 Additional details about the project.
