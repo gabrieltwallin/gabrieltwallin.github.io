@@ -16,9 +16,9 @@ I’m an Assistant Professor (*Lecturer* in the UK system) in Statistics in the 
 
 My research focuses on developing flexible statistical and machine learning methods to accurately identify latent (unobserved) structures in social, behavioural and health data. Much of my research is motivated by concepts of fairness and interpretability and is often informed by collaborations with domain experts from various fields, including economics, psychology, and education. 
 
-I am currently collaborating with researchers at Lancaster Medical School to study physical, mental, and social inequalities among school children in Northern England. In addition, I work with the Psychology Department at Lancaster to study early literacy acquisition through game-based environments. I also regularly collaborate with people in the educational testing industry.
+Among my current projects, I am collaborating with researchers at Lancaster Medical School to study physical, mental, and social inequalities among school children in Northern England. I also work with the Psychology Department at Lancaster to study early literacy acquisition in game-based environments. In addition, I regularly collaborate with people in the educational testing industry.
 
-From a statistical point of view, I develop theory, methodology and computational methods for:   
+From a statistical point of view, my research so far has focused on developing theory, methodology and computational methods for:   
 * The structural learning of latent variable models,
 * multivariate outlier detection,
 * model-based clustering and classification,
