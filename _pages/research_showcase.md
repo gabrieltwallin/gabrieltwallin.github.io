@@ -5,7 +5,7 @@ permalink: /research_showcase/
 author_profile: true
 ---
 
-On this page, I will showcase some of the research research projects that I have worked on, as well as ongoing project. I am both interested in collaboration and consulting on these matters so feel free to reach out if any of this is of your interest.
+On this page, I will showcase some of the research research projects that I have worked on, as well as ongoing projects. I am both interested in collaboration and consulting on these matters so feel free to reach out if any of this is of your interest.
 
 
 
