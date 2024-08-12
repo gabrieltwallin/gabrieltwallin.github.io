@@ -15,12 +15,12 @@ Ensuring fairness and interpretability in tools like surveys, questionnaires, an
 
 In the figure below, we illustrate how this method can be used to adjust the estimated difficulty levels of questions in a university placement test for two distinct latent clusters that has been identified by our procedure: one that exhibits rapid response behavior due to time pressure, and another baseline group with stable response patterns.
 
-<div style="display: flex; justify-content: space-around;">
-    <div style="flex: 1; margin-right: 10px; text-align: center;">
-        <img src="/images/Param_estimates.png" alt="Figure Description" style="width:100%;">
+<div style="overflow: hidden;">
+    <div style="float: left; width: auto; text-align: center;">
+        <img src="/images/Param_estimates.png" alt="Figure Description" style="width:auto; max-width:100%;">
     </div>
-    <div style="flex: 1; margin-left: 10px; text-align: center;">
-        <img src="/images/PathDiagram_DIF.png" alt="Figure Description" style="width:100%;">
+    <div style="float: right; width: auto; text-align: center;">
+        <img src="/images/PathDiagram_DIF.png" alt="Figure Description" style="width:auto; max-width:100%;">
     </div>
 </div>
 
