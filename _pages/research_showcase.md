@@ -17,22 +17,12 @@ Ensuring fairness and interpretability in tools like surveys, questionnaires, an
     <img src="/images/PathDiagram_DIF.png" alt="Figure Description" style="width:65%;">
 </div>
 
-In the figure below, we illustrate how this method can be used to adjust the estimated difficulty levels of questions in a university placement test for two distinct latent clusters that has been identified by our procedure: one that exhibits rapid response behavior due to time pressure, and another baseline group with stable response patterns.
-
-<div style="text-align: center;">
-    <img src="/images/Param_estimates.png" alt="Figure Description" style="width:65%;">
-</div>
-
-
-
-
-
-The proposed framework is currently being extended in a number of directions, including statistical inference for the DIF effect (the dashed line in the figure above). Please let me know if you are working with survey-type data, possibly with large numbers of measurement units (respondents/costumers/students etc) and variables, and are interested in multi-group analysis. 
+The proposed framework is currently being extended in a number of directions, including statistical inference for the proposed regularised estimator. Please let me know if you are working with survey-type data, possibly with large numbers of measurement units (respondents/costumers/students etc) and variables, and are interested in multi-group analysis. 
 
 
 ## Respondent-level Change-Point Detection in Latent Factor Analysis
 
-Modern survey data are increasingly heterogeneous. I have developed statistical methodology focused on the detection of individual-level response-style changes due to, for example, time pressure in high-stakes educational testing or lack of motivation in low-stakes testing or in questionnaires. To better model the underlying response process, we introduce a novel statistical methodology where a baseline latent factor model is fused with a change-point model. The baseline model captures normal item response behaviour, and the post-change model captures the aberrant behaviours (e.g., item responses under time pressure). The change-points are treated as latent variables whose change-point probability depends on item parameters and, possibly, the latent construct level of the respondent. We propose an efficient Expectation-Maximization algorithm that estimates the baseline and change-point model parameters simultaneously. 
+I have developed statistical methodology focused on the detection of individual-level response-style changes due to, for example, time pressure in high-stakes educational testing or lack of motivation in low-stakes testing or in questionnaires. To better model the underlying response process, we introduce a novel statistical methodology where a baseline latent factor model is fused with a change-point model. The baseline model captures normal item response behaviour, and the post-change model captures the aberrant behaviours (e.g., item responses under time pressure). The change-points are treated as latent variables whose change-point probability depends on item parameters and, possibly, the latent construct level of the respondent. We propose an efficient Expectation-Maximization algorithm that estimates the baseline and change-point model parameters simultaneously. 
 
 ## Interpretable Unsupervised Learning
 
