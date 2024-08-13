@@ -17,7 +17,7 @@ I’m an Assistant Professor (*Lecturer* in the UK system) in Statistics in the 
 My research focuses on developing flexible statistical and machine learning methods to accurately identify latent (unobserved) structures in social, behavioural and health data. I use these methods to study health inequalities, learning acquisition, fairness in educational measurement and interpretability in psychological testing. I often collaborate with domain experts from various fields, including economics, psychology, and the educational testing industry. 
 
 From a statistical point of view, my research is at the moment focused on developing theory, methodology and computational methods for:   
-* The structural learning of latent variable models,
+* The structural learning of (multilayer) latent factor models,
 * multivariate outlier detection,
 * model-based clustering and classification,
 * change-point detection for latent factor models,
