@@ -32,7 +32,11 @@ In the figure below, respondent-level change-points (i.e., the change in respons
 
 ## Interpretable Unsupervised Learning
 
-Modern data analysis frequently involves reducing a high-dimensional dataset to a lower-dimensional one that retains the same key characteristics. To this end, researchers often use exploratory factor analysis (EFA) to uncover the underlying structure in multivariate data. A key focus in this area is developing methods to enhance the interpretability of the models. My research explores new approaches to improving factor analysis by introducing novel techniques for rotation and regularized estimation. These methods aim to achieve more accurate and computationally efficient results, particularly when dealing with sparse data structures. I also work on model selection and inference procedures to ensure the robustness and consistency of these methods. The applications are diverse, ranging from personality testing and mental health assessments to recommendation systems in marketing.
+Modern data analysis frequently involves reducing a high-dimensional dataset to a lower-dimensional one that retains the same key characteristics. To this end, researchers often use exploratory factor analysis to uncover the underlying structure in multivariate data. A key focus in this area is developing methods to enhance the interpretability of the models. My research explores new approaches to improving factor analysis by introducing novel techniques for rotation and regularized estimation. These methods aim to achieve more accurate and computationally efficient results, particularly when dealing with sparse data structures. I also work on model selection and inference procedures to ensure the robustness and consistency of these methods. The applications are diverse, ranging from personality testing and mental health assessments to recommendation systems in marketing.
+
+<div style="text-align: center;">
+    <img src="/images/sparse_structure.png" alt="Figure Description" style="width:65%;">
+</div>
 
 ## Score Equating: A Statistical Alignment Problem
 
