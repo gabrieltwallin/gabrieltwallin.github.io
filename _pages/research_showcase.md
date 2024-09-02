@@ -24,6 +24,10 @@ The proposed framework is currently being extended in a number of directions, in
 
 I have developed statistical methodology for multi-stream change-point detection in latent factor models. A motivating example was the detection of individual-level response-style changes due to, for example, time pressure in high-stakes educational testing or lack of motivation in low-stakes testing or in questionnaires. To better model the underlying response process, we introduce a novel statistical methodology where a baseline latent factor model is fused with a change-point model. The baseline model captures normal item response behaviour, and the post-change model captures the aberrant behaviours (e.g., item responses under time pressure). The change-points are treated as latent variables whose change-point probability depends on item parameters and, possibly, the latent construct level of the respondent. We propose an efficient Expectation-Maximization algorithm that estimates the baseline and change-point model parameters simultaneously. 
 
+<div style="text-align: center;">
+    <img src="/images/fun-change-point-model.svg" alt="Change-Point Model" style="width:65%;">
+</div>
+
 ## Interpretable Unsupervised Learning
 
 Modern data analysis frequently involves reducing a high-dimensional dataset to a lower-dimensional one that retains the same key characteristics. To this end, researchers often use exploratory factor analysis (EFA) to uncover the underlying structure in multivariate data. A key focus in this area is developing methods to enhance the interpretability of the models. My research explores new approaches to improving factor analysis by introducing novel techniques for rotation and regularized estimation. These methods aim to achieve more accurate and computationally efficient results, particularly when dealing with sparse data structures. I also work on model selection and inference procedures to ensure the robustness and consistency of these methods. The applications are diverse, ranging from personality testing and mental health assessments to recommendation systems in marketing.
