@@ -5,9 +5,10 @@ permalink: /service/
 author_profile: true
 ---
 * **Consulting Editor** British Journal of Mathematical and Statistical Psychology
-* **Program committee member** International Meeting of the Psychometric Society
-* **Website committee member** Psychometric Society
+* **Website & Awards committee member** Psychometric Society
 * **Committee member** Young Statisticians, Royal Statistical Society
+* **Program committee member** International Meeting of the Psychometric Society 2024
+* [**STEM Ambassador**](https://www.stem.org.uk/stem-ambassadors) at STEM Learning
 
 **Journal and Conference Reviews**
 * Annals of Applied Statistics
