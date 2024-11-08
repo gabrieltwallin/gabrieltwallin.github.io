@@ -14,7 +14,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
+**Preprints**
+* **Wallin, G.**, Chen, Y., Lee, Y-H., & Li, X. (2024). A Latent Variable Model with Change Points and Its Application to Time Pressure Effects in Educational Assessment. Submitted. [Link to paper](https://arxiv.org/abs/2410.22300).
+* **Wallin, G.**, & Wiberg, M. (2024). Propensity Score Methods for Local Test Score Equating: Stratification and Inverse Probability Weighting. Submitted. [Link to paper](https://arxiv.org/abs/2410.22989).
+* Laukaityte, I., **Wallin, G.**, & Wiberg, M. (2024). Ensuring Fairness in Educational Testing: Combining Propensity Scores and Common Items for Test Score Equating. Submitted.
+  
+**Publications**
 * **Wallin, G.**, & Wiberg, M. (2024). Smoothing of bivariate test score distributions - Model selection targeting test score equating. Accepted for publication in *Journal of Educational and Behavioral Statistics*.
 * **Wallin, G.** (2024) *Review of* An Introduction to R and Python for Data Analysis: A Side-By-Side Approach (by Taylor R. Brown). *The American Statistician*. 
 * **Wallin, G.**, Chen, Y., & Moustaki, I. (2024). DIF Analysis with Unknown Groups and Anchor Items. *Psychometrika*. [Link to paper](https://link.springer.com/article/10.1007/s11336-024-09948-7).
