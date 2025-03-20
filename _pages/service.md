@@ -5,6 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 * **Consulting Editor** British Journal of Mathematical and Statistical Psychology
+* **Associate Editor (Statistics)** Teaching Mathematics and its Applications
 * **Website & Awards committee member** Psychometric Society
 * **Committee member** Young Statisticians, Royal Statistical Society
 * **Program committee member** International Meeting of the Psychometric Society 2024
