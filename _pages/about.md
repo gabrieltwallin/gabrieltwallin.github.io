@@ -28,6 +28,7 @@ Please see the Research showcase page for some examples of my research.
 If you are a student interested in pursuing a PhD under my supervision, please feel free to send me an [email](mailto:g.wallin@lancaster.ac.uk). 
 
 ## News
+* April, 2025: Joining as joint Editor for the proceedings of the International Meeting of the Psychometric Society, and as Associate Editor (Statistics) for Teaching Mathematics and its Applications
 * March, 2025: Organising a workshop on [Innovations in Social Data Science](https://www.lancaster.ac.uk/dsi/about-us/events/innovations-in-social-data-science/) 
 * February, 2025: Recipient of a Competitive Research Grant from Duolingo to do research on test security and fraud detection in online testing.
 * February, 2025: Delivering a workshop on fairness in educational testing for the Ministry of Education in Peru.
