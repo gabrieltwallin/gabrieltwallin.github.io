@@ -14,7 +14,7 @@ I’m an Assistant Professor (*Lecturer* in the UK system) in Statistics in the 
 
 ## My research
 
-My research focuses on developing flexible statistical and machine learning methods to accurately identify latent (unobserved) structures in social, behavioural and health data. I use these methods to study health inequalities, learning acquisition, fairness in educational measurement and interpretability in psychological testing. I often collaborate with domain experts from various fields, including economics, psychology, political science and the educational testing industry. 
+My research focuses on developing flexible statistical and machine learning methods to accurately identify latent (unobserved) structures in social, behavioural and health data. I use these methods to study learning acquisition, health inequalities, public opinion, humanitarian decision-making, fairness in educational measurement and interpretability in psychological testing. I often collaborate with domain experts from various fields, including economics, psychology, political science and the educational testing industry. 
 
 From a statistical point of view, my research is focused on developing theory, methodology and computational methods for:   
 * The structural learning of (multilayer) latent factor models,
