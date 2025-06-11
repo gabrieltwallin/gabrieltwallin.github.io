@@ -19,6 +19,7 @@ author_profile: true
 * TEST
 * Psychometrika
 * British Journal of Mathematical and Statistical Psychology
+* Psychological Methods
 * Applied Psychological Measurement
 * Behavior Research Methods
 * Educational and Psychological Measurement
