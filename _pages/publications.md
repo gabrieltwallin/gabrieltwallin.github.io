@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %} -->
 **Preprints**
 
-† indicates supervision of a PhD student
-* Ma, Y., Ushakova, A., Cain, K., & **Wallin, G.<sup>†</sup>** A statistical framework for dynamic cognitive diagnosis in digital learning environments. [Link to paper](https://arxiv.org/abs/2506.14531)
+Underlined are student or postdoc authors under my supervision
+* <u>Ma, Y.</u>, Ushakova, A., Cain, K., & **Wallin, G.<sup>†</sup>** A statistical framework for dynamic cognitive diagnosis in digital learning environments. [Link to paper](https://arxiv.org/abs/2506.14531)
 * **Wallin, G.**, & Wiberg, M. (2024). Propensity Score Methods for Local Test Score Equating: Stratification and Inverse Probability Weighting. Submitted. [Link to paper](https://arxiv.org/abs/2410.22989).
 * Laukaityte, I., **Wallin, G.**, & Wiberg, M. (2024). Ensuring Fairness in Educational Testing: Combining Propensity Scores and Common Items for Test Score Equating. Submitted.
   
