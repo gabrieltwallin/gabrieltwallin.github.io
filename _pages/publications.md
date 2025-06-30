@@ -18,11 +18,11 @@ author_profile: true
 
 Underlined are student or postdoc authors under my supervision.
 * <u>Ma, Y.</u>, Ushakova, A., Cain, K., & **Wallin, G.** A statistical framework for dynamic cognitive diagnosis in digital learning environments. [Preprint](https://arxiv.org/abs/2506.14531)
-* **Wallin, G.**, & Wiberg, M. (2024). Propensity Score Methods for Local Test Score Equating: Stratification and Inverse Probability Weighting. Submitted. [Preprint](https://arxiv.org/abs/2410.22989).
-* Laukaityte, I., **Wallin, G.**, & Wiberg, M. (2024). Ensuring Fairness in Educational Testing: Combining Propensity Scores and Common Items for Test Score Equating. Submitted.
+* **Wallin, G.**, & Wiberg, M. (2024). Propensity Score Methods for Local Test Score Equating: Stratification and Inverse Probability Weighting. Re-submitted after major revision. [Preprint](https://arxiv.org/abs/2410.22989).
   
 **Publications**
-* **Wallin, G.**, Chen, Y., Lee, Y-H., & Li, X. (2024). A Latent Variable Model with Change Points and Its Application to Time Pressure Effects in Educational Assessment. [Link to paper](https://arxiv.org/abs/2410.22300). Accepted for publication in *Annals of Applied Statistics*.
+* Laukaityte, I., **Wallin, G.**, & Wiberg, M. (2025). Ensuring Fairness in Educational Testing: Combining Propensity Scores and Common Items for Test Score Equating. Accepted for publication in *Applied Psychological Measurement*.
+* **Wallin, G.**, Chen, Y., Lee, Y-H., & Li, X. (2025). A Latent Variable Model with Change Points and Its Application to Time Pressure Effects in Educational Assessment. [Link to paper](https://arxiv.org/abs/2410.22300). Accepted for publication in *Annals of Applied Statistics*.
 * **Wallin, G.**, & Wiberg, M. (2024). Smoothing of bivariate test score distributions - Model selection targeting test score equating. Accepted for publication in *Journal of Educational and Behavioral Statistics*.
 * **Wallin, G.** (2024) *Review of* An Introduction to R and Python for Data Analysis: A Side-By-Side Approach (by Taylor R. Brown). *The American Statistician*. 
 * **Wallin, G.**, Chen, Y., & Moustaki, I. (2024). DIF Analysis with Unknown Groups and Anchor Items. *Psychometrika*. [Link to paper](https://link.springer.com/article/10.1007/s11336-024-09948-7).
