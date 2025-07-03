@@ -21,6 +21,7 @@ Underlined are student or postdoc authors under my supervision.
 * **Wallin, G.**, & Wiberg, M. (2024). Propensity Score Methods for Local Test Score Equating: Stratification and Inverse Probability Weighting. Re-submitted after major revision. [Preprint](https://arxiv.org/abs/2410.22989).
   
 **Publications**
+* Kim, J.-S., Wu, H., Sweet, T. M., Molenaar, D., Junker, B. W., Moustaki, I., Harring, J. R., Bulut, O., Tong, X. (C.), **Wallin, G.**, & Di Plinio, S. (Eds.). (2025). Proceedings of the International Meeting of the Psychometric Society: The 89th Annual Meeting, Prague, Czech Republic, 2024. 
 * Laukaityte, I., **Wallin, G.**, & Wiberg, M. (2025). Ensuring Fairness in Educational Testing: Combining Propensity Scores and Common Items for Test Score Equating. Accepted for publication in *Applied Psychological Measurement*.
 * **Wallin, G.**, Chen, Y., Lee, Y-H., & Li, X. (2025). A Latent Variable Model with Change Points and Its Application to Time Pressure Effects in Educational Assessment. [Link to paper](https://arxiv.org/abs/2410.22300). Accepted for publication in *Annals of Applied Statistics*.
 * **Wallin, G.**, & Wiberg, M. (2024). Smoothing of bivariate test score distributions - Model selection targeting test score equating. Accepted for publication in *Journal of Educational and Behavioral Statistics*.
