@@ -29,7 +29,7 @@ If you are a student interested in pursuing a PhD under my supervision, please f
 
 ## News
 * July, 2025: Receiving the "Best Reviewer Award" from the Psychometric Society for their journal Psychometrika.
-* July, 2025: Presenting at the International Meeting of the Psychometric Society in Minneapolis, MN, USA. My studeny [Yawen Ma](https://yawen-ma.github.io/) is also presenting a joint paper.
+* July, 2025: Presenting at the International Meeting of the Psychometric Society in Minneapolis, MN, USA. My student [Yawen Ma](https://yawen-ma.github.io/) is also presenting a joint paper.
 * May, 2025: Recipient of funding from the EPSRC-funded STOR-i programme to organise a workshop on change-point detection in April 2026. More info coming soon!
 * April, 2025: Seminar talk in the Department of Mathematics at the University of Edinburgh.
 * April, 2025: Joining as joint Editor of the proceedings for the International Meeting of the Psychometric Society, and as Associate Editor (Statistics) for Teaching Mathematics and its Applications
