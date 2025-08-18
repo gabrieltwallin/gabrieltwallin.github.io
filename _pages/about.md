@@ -28,6 +28,7 @@ Please see the Research showcase page for some examples of my research.
 If you are a student interested in pursuing a PhD under my supervision, please feel free to send me an [email](mailto:g.wallin@lancaster.ac.uk). 
 
 ## News
+* August, 2025: Seeking postdoc for project funded by Duolingo. See [here](https://hr-jobs.lancaster.ac.uk/Vacancy.aspx?ref=0627-25).
 * August, 2025: Receiving Invitational Fellowship from the Japan Society for the Promotion of Science. Will spend fellowship period at the University of Tokyo during spring 2026.
 * July, 2025: Receiving the Best Reviewer Award from the Psychometric Society for their journal Psychometrika.
 * July, 2025: Presenting at the International Meeting of the Psychometric Society in Minneapolis, MN, USA. My student [Yawen Ma](https://yawen-ma.github.io/) is also presenting a joint paper.
