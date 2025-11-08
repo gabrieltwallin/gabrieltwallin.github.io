@@ -21,6 +21,7 @@ Underlined are student or postdoc authors under my supervision.
 
   
 **Publications**
+* Lunn, J., Ryan, C., **Wallin, G.**, Day, L., Bailey, A. (2025). Child health inequalities in sleep duration. Accepted for publication in European Journal of Public Health.
 * **Wallin, G.**, & Wiberg, M. (2025). Propensity Score Methods for Local Test Score Equating: Stratification and Inverse Probability Weighting. Accepted for publication in Journal of Educational and Beharioral Statistics. [Preprint](https://arxiv.org/abs/2410.22989).
 * Kim, J.-S., Wu, H., Sweet, T. M., Molenaar, D., Junker, B. W., Moustaki, I., Harring, J. R., Bulut, O., Tong, X. (C.), **Wallin, G.**, & Di Plinio, S. (Eds.). (2025). Proceedings of the International Meeting of the Psychometric Society: The 89th Annual Meeting, Prague, Czech Republic, 2024. 
 * Laukaityte, I., **Wallin, G.**, & Wiberg, M. (2025). Ensuring Fairness in Educational Testing: Combining Propensity Scores and Common Items for Test Score Equating. Accepted for publication in *Applied Psychological Measurement*.
