@@ -28,6 +28,7 @@ Please see the Research showcase page for some examples of my research.
 If you are a student interested in pursuing a PhD under my supervision, please feel free to send me an [email](mailto:g.wallin@lancaster.ac.uk). 
 
 ## News
+* January, 2026: Visiting Facultad the Matemáticas at Pontificia Universidad Católica De Chile in Santiago, Chile. Invited to speak at the [Seminar on Psychometrics and Latent Variables](https://www.mat.uc.cl/ii-seminario-de-psicometria-y-variables-latentes.html).
 * November, 2025: For the second time, I am delivering a 3-week course on statistical learning for the African Institute for Mathematical Sciences in Cameroon.
 * September, 2025: Attending the RSS conference in Edinburgh, and the CLADAG conference in Naples.
 * August, 2025: Seeking postdoc for project funded by Duolingo. See [here](https://hr-jobs.lancaster.ac.uk/Vacancy.aspx?ref=0627-25).
