@@ -8,4 +8,4 @@ date: 2023-11-13
 location: "Lancaster, United Kingdom"
 ---
 
-Michaelmas term 2023. [Link here](https://www.lancaster.ac.uk/study/why-lancaster/data-science-msc-term-one/).
+
