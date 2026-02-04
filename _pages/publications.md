@@ -19,6 +19,7 @@ author_profile: true
 Underlined are student or postdoc authors under my supervision.
 * **Wallin, G.** & Huang, Q. A Hybrid Latent-Class Item Response Model for Detecting Measurement Non-Invariance in Ordinal Scales [Preprint](https://arxiv.org/abs/2601.17612)
 * <u>Ma, Y.</u>, Ushakova, A., Cain, K., & **Wallin, G.** A statistical framework for dynamic cognitive diagnosis in digital learning environments. [Preprint](https://arxiv.org/abs/2506.14531)
+* <u>Ma, Y.</u>, **Wallin, G.**, Ushakova, A., & Cain, K. A Comparison of Joint and Stepwise Dynamic Cognitive Diagnostic Models.
 
   
 **Publications**
