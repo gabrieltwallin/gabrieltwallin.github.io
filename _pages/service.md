@@ -14,6 +14,7 @@ author_profile: true
 
 **Journal and Conference Reviews**
 * Annals of Applied Statistics
+* Journal of the Royal Statistical Society - Series A
 * Journal of Multivariate Analysis
 * Psychometrika
 * British Journal of Mathematical and Statistical Psychology
