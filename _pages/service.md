@@ -14,12 +14,13 @@ author_profile: true
 
 **Journal and Conference Reviews**
 * Annals of Applied Statistics
-* The American Statistician
-* Computational Statistics and Data Analysis
-* TEST
+* Journal of Multivariate Analysis
 * Psychometrika
 * British Journal of Mathematical and Statistical Psychology
 * Psychological Methods
+* The American Statistician
+* Computational Statistics and Data Analysis
+* TEST
 * Applied Psychological Measurement
 * Behavior Research Methods
 * Educational and Psychological Measurement
