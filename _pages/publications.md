@@ -17,6 +17,7 @@ author_profile: true
 **Preprints**
 
 Underlined are student or postdoc authors under my supervision.
+* <u>Ma, Y.</u>, Ishida, S., Cain, K., & **Wallin, G.** Interpreting Learning Under Competing Models: Joint and Stepwise Approaches for Dynamic Cognitive Diagnosis. 
 * **Wallin, G.** & Bhaktha, N. A Latent Variable Model for Response Times with Individual-Specific Change-Points. [Preprint](https://arxiv.org/abs/2605.29182)
 * **Wallin, G.** & Huang, Q. Latent Impact and Differential Item Functioning Analysis for Asymmetric IRT Models. [Preprint](https://arxiv.org/abs/2605.05684)
 * <u>Ma, Y.</u>, Ishida, S., Cain, K., & **Wallin, G.** NLP-Informed Dynamic Cognitive Diagnosis Modelling. [Preprint](https://arxiv.org/abs/2604.07179)
