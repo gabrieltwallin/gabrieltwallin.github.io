@@ -28,6 +28,7 @@ Please see the Research showcase page for some examples of my research.
 If you are a student interested in pursuing a PhD under my supervision, please feel free to send me an [email](mailto:g.wallin@lancaster.ac.uk). 
 
 ## News
+* July 2026: Organising a symposium on measurement non-invariance analysis at IMPS 2026 and a workshop on factor models at the Institute of Mathematics for Industry at Kyushu University.
 * March - May 2026: Visiting University of Tokyo as part of my JSPS Fellowship.
 * January, 2026: Visiting the Faculty of Mathematics at Pontificia Universidad Católica De Chile in Santiago, Chile. Invited to speak at the [Seminar on Psychometrics and Latent Variables](https://www.mat.uc.cl/ii-seminario-de-psicometria-y-variables-latentes.html).
 * November, 2025: Delivering a 3-week course on statistical learning for the African Institute for Mathematical Sciences in Cameroon.
