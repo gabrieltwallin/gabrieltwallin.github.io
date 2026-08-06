@@ -22,10 +22,10 @@ Underlined are student or postdoc authors under my supervision.
 * **Wallin, G.** & Huang, Q. Latent Impact and Differential Item Functioning Analysis for Asymmetric IRT Models. [Preprint](https://arxiv.org/abs/2605.05684)
 * <u>Ma, Y.</u>, Ishida, S., Cain, K., & **Wallin, G.** NLP-Informed Dynamic Cognitive Diagnosis Modelling. [Preprint](https://arxiv.org/abs/2604.07179)
 * **Wallin, G.** & Huang, Q. A Hybrid Latent-Class Item Response Model for Detecting Measurement Non-Invariance in Ordinal Scales [Preprint](https://arxiv.org/abs/2601.17612)
-* <u>Ma, Y.</u>, Ushakova, A., Cain, K., & **Wallin, G.** A statistical framework for dynamic cognitive diagnosis in digital learning environments. [Preprint](https://arxiv.org/abs/2506.14531)
 
   
 **Publications**
+* <u>Ma, Y.</u>, Ushakova, A., Cain, K., & **Wallin, G.** A statistical framework for dynamic cognitive diagnosis in digital learning environments. Accepted for publication in *Journal of the Royal Statistical Society - Series A*. [Preprint](https://arxiv.org/abs/2506.14531)
 * <u>Ma, Y.</u>, **Wallin, G.**, Ushakova, A., & Cain, K. A Comparison of Joint and Stepwise Dynamic Cognitive Diagnostic Models. Accepted for publication in the Proceedings of the International Meeting of the Psychometric Society 2025. [Preprint](https://arxiv.org/abs/2604.16031).
 * **Wallin, G.** (2025). It’s Up for Debate: A Review of Seminal Ideas and Controversies in Statistics by Roderick J. A. Little. *Journal of Educational and Beharioral Statistics*. [Link to paper](https://journals.sagepub.com/doi/full/10.3102/10769986251403034?casa_token=d9zw3rz2s74AAAAA%3A9O22MUaNNv8YJpLtKAuSwv7_6hZ5kj_sx-tyUuM70xwpT9zuPoPHuMG7yqT4UYHEg7LpXSTcwXwfKQ)
 * Lunn, J., Ryan, C., **Wallin, G.**, Day, L., Bailey, A. (2025). Child health inequalities in sleep duration. *European Journal of Public Health*.
