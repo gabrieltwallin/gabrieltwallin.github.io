@@ -10,6 +10,9 @@ redirect_from:
 
 I’m an Assistant Professor (*Lecturer* in the UK system) in Statistics in the [School of Mathematical Sciences](https://www.lancaster.ac.uk/maths/) at [Lancaster university](https://www.lancaster.ac.uk/). Previously, I was a Research Fellow in the [Department of Statistics](https://www.lse.ac.uk/statistics) at [London School of Economics and Political Science](https://www.lse.ac.uk/) where I was advised by Dr [Yunxiao Chen](https://www.lse.ac.uk/statistics/people/yunxiao-chen) and Professor [Irini Moustaki](https://www.lse.ac.uk/statistics/people/irini-moustaki). Prior to that, I was a postdoc at the French national research institute [Inria](https://inria.fr/en). I received my PhD in 2020 from the [Department of Statistics](https://www.umu.se/en/usbe/about-us/statistics/) at [Umeå University](https://www.umu.se/en/), Sweden, under the supervision of Professor [Marie Wiberg](https://www.umu.se/en/staff/marie-wiberg/).
 
+## Note
+I'm returning to Umeå University in Sweden in January 2027, following a strategic recruitment grant from the Swedish Research Council. Currently recruiting two PhD students and two postdocs. See more under News.
+
 <div style="margin-top: 10px;"></div>
 
 ## My research
@@ -29,7 +32,7 @@ If you are a student interested in pursuing a PhD under my supervision, please f
 
 ## News
 * January 2027: Returning to Umeå University in Sweden, following a strategic recruitment grant from the Swedish Research Council. Currently recruiting two PhD students and two postdocs. See more [here](https://umu.varbi.com/en/?jobtoken=149b338893de2dd9d0873759957fbe7b9282b8477) for the PhD student positions and [here](https://umustipendie.varbi.com/en/?jobtoken=1a074f4ab65d38aa3e26b6303ff9b15ca01139de6) for the postdocs.
-* January 2027: Invited speaker SAINTS 2027, Christ University, Bengaluru, India. Also visiting Christ University and Indian Institute of Technology.
+* January 2027: Visiting Christ University, Bengaluru, India, and and Indian Institute of Technology.
 * August 2026: Visiting University of Tokyo.
 * July 2026: Organising a symposium on measurement non-invariance analysis at IMPS 2026 and a workshop on factor models at the Institute of Mathematics for Industry at Kyushu University.
 * March - May 2026: Visiting University of Tokyo as part of my JSPS Fellowship.
