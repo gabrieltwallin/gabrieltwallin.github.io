@@ -31,7 +31,7 @@ Please see the Research showcase page for some examples of my research.
 If you are a student interested in pursuing a PhD under my supervision, please feel free to send me an [email](mailto:g.wallin@lancaster.ac.uk). 
 
 ## News
-* January 2027: Returning to Umeå University in Sweden, following a strategic recruitment grant from the Swedish Research Council. Currently recruiting two PhD students and two postdocs. See more [here](https://umu.varbi.com/en/?jobtoken=149b338893de2dd9d0873759957fbe7b9282b8477) for the PhD student positions and [here](https://umustipendie.varbi.com/en/?jobtoken=1a074f4ab65d38aa3e26b6303ff9b15ca01139de6) for the postdocs.
+* January 2027: Returning to Umeå University in Sweden, following a strategic recruitment grant (15,000,000 SEK) from the Swedish Research Council. Currently recruiting two PhD students and two postdocs. See more [here](https://umu.varbi.com/en/?jobtoken=149b338893de2dd9d0873759957fbe7b9282b8477) for the PhD student positions and [here](https://umustipendie.varbi.com/en/?jobtoken=1a074f4ab65d38aa3e26b6303ff9b15ca01139de6) for the postdocs.
 * January 2027: Visiting Christ University, Bengaluru, India, and and Indian Institute of Technology.
 * August 2026: Visiting University of Tokyo.
 * July 2026: Organising a symposium on measurement non-invariance analysis at IMPS 2026 and a workshop on factor models at the Institute of Mathematics for Industry at Kyushu University.
